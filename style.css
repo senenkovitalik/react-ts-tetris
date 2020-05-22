@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.playing-area {
+  padding: 20px;
+  background-color: black;
+  width: fit-content;
+}
